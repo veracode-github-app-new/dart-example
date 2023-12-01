@@ -20,7 +20,7 @@ Don't be confused, you **CAN** use my backend code provided above, you just have
  - Heroku
  - AWS Free Tier
  - Azure etc.
-
+ 
 For more instruction visit the backend [README](https://github.com/arafaysaleem/ez_tickets_backend/blob/master/README.md#rocket-deployement).
 
 
